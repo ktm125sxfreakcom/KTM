@@ -1,1 +1,40 @@
+#header{
+  width: 100%;
+  height: 80px;
+  background-color: black;
+}
 
+#header h1{
+  color:orange;
+}
+
+.left{
+  width: 20%;
+  background-color: orange;
+  float: left;
+}
+
+.right{
+  width: 80%;
+  background-color: lightgrey;
+  float: right;
+}
+
+.smaller-image {
+  width:540px;
+}
+
+p{
+  padding-left: 10px;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .left, .right {
+    width: 100%;
+  }
+  
+}

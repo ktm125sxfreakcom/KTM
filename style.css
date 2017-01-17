@@ -11,6 +11,11 @@ img {
 }
 
 td {
-  font-size: 2.4em
-    <p style="font-family:'Arial'; font-weight: bold;">    </p>
+  font-size: 2.4em;
+   font-family:'Arial';
+}
+
+#travel table img {
+  margin: 10px;
+  
 }

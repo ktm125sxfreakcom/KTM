@@ -15,6 +15,10 @@ td {
    font-family:'Arial';
 }
 
+.tab-pane > img{
+  margin-bottom: 30px;
+}
+
   table img {
   margin: 10px;
   
